@@ -1,1 +1,4 @@
 *.json
+Useful_Paper*
+.ipynb_checkpoint*
+*Write_Up_HW2_P2.txt*
